@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\OneDrive - VNU-HCMUS\\Desktop\\Code\\quickstart\\src\\Api\\Api.csproj": {}
+    "C:\\Users\\Admin\\OneDrive - VNU-HCMUS\\Desktop\\Code\\quickstart\\Client\\Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\OneDrive - VNU-HCMUS\\Desktop\\Code\\quickstart\\src\\Api\\Api.csproj": {
+    "C:\\Users\\Admin\\OneDrive - VNU-HCMUS\\Desktop\\Code\\quickstart\\Client\\Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\OneDrive - VNU-HCMUS\\Desktop\\Code\\quickstart\\src\\Api\\Api.csproj",
-        "projectName": "Api",
-        "projectPath": "C:\\Users\\Admin\\OneDrive - VNU-HCMUS\\Desktop\\Code\\quickstart\\src\\Api\\Api.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\OneDrive - VNU-HCMUS\\Desktop\\Code\\quickstart\\Client\\Client.csproj",
+        "projectName": "Client",
+        "projectPath": "C:\\Users\\Admin\\OneDrive - VNU-HCMUS\\Desktop\\Code\\quickstart\\Client\\Client.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\OneDrive - VNU-HCMUS\\Desktop\\Code\\quickstart\\src\\Api\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\OneDrive - VNU-HCMUS\\Desktop\\Code\\quickstart\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,13 +40,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+            "IdentityModel": {
               "target": "Package",
-              "version": "[6.0.16, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.2.3, )"
+              "version": "[6.1.0, )"
             }
           },
           "imports": [
@@ -61,9 +57,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

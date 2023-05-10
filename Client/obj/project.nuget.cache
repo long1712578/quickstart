@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "buto0YCCGf9HI/hAYIOnqbzap26JVYdDSgLU/DadThxtXRDPJ/BhOgoBCOUK0+rCY3rn6Xl3gudGVu34JQXATQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\OneDrive - VNU-HCMUS\\Desktop\\Code\\quickstart\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\identitymodel\\6.1.0\\identitymodel.6.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
