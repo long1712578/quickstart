@@ -25,3 +25,10 @@ C:\Users\TMT\Desktop\App-demo1\Long\quickstart\src\Api\obj\Debug\net6.0\refint\A
 C:\Users\TMT\Desktop\App-demo1\Long\quickstart\src\Api\obj\Debug\net6.0\Api.pdb
 C:\Users\TMT\Desktop\App-demo1\Long\quickstart\src\Api\obj\Debug\net6.0\Api.genruntimeconfig.cache
 C:\Users\TMT\Desktop\App-demo1\Long\quickstart\src\Api\obj\Debug\net6.0\ref\Api.dll
+C:\Users\TMT\Desktop\App-demo1\Long\quickstart\src\Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\TMT\Desktop\App-demo1\Long\quickstart\src\Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\TMT\Desktop\App-demo1\Long\quickstart\src\Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\TMT\Desktop\App-demo1\Long\quickstart\src\Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\TMT\Desktop\App-demo1\Long\quickstart\src\Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\TMT\Desktop\App-demo1\Long\quickstart\src\Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\TMT\Desktop\App-demo1\Long\quickstart\src\Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
