@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\OneDrive - VNU-HCMUS\\Desktop\\Code\\quickstart\\src\\Api\\Api.csproj": {}
+    "C:\\Users\\TMT\\Desktop\\App-demo1\\Long\\quickstart\\src\\Api\\Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\OneDrive - VNU-HCMUS\\Desktop\\Code\\quickstart\\src\\Api\\Api.csproj": {
+    "C:\\Users\\TMT\\Desktop\\App-demo1\\Long\\quickstart\\src\\Api\\Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\OneDrive - VNU-HCMUS\\Desktop\\Code\\quickstart\\src\\Api\\Api.csproj",
+        "projectUniqueName": "C:\\Users\\TMT\\Desktop\\App-demo1\\Long\\quickstart\\src\\Api\\Api.csproj",
         "projectName": "Api",
-        "projectPath": "C:\\Users\\Admin\\OneDrive - VNU-HCMUS\\Desktop\\Code\\quickstart\\src\\Api\\Api.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\OneDrive - VNU-HCMUS\\Desktop\\Code\\quickstart\\src\\Api\\obj\\",
+        "projectPath": "C:\\Users\\TMT\\Desktop\\App-demo1\\Long\\quickstart\\src\\Api\\Api.csproj",
+        "packagesPath": "C:\\Users\\TMT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TMT\\Desktop\\App-demo1\\Long\\quickstart\\src\\Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\TMT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -68,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }
