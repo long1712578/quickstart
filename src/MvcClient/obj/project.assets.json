@@ -415,19 +415,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\TMT\\.nuget\\packages\\": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TMT\\Desktop\\App-demo1\\Long\\quickstart\\src\\MvcClient\\MvcClient.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\OneDrive - VNU-HCMUS\\Desktop\\Code\\quickstart\\src\\MvcClient\\MvcClient.csproj",
       "projectName": "MvcClient",
-      "projectPath": "C:\\Users\\TMT\\Desktop\\App-demo1\\Long\\quickstart\\src\\MvcClient\\MvcClient.csproj",
-      "packagesPath": "C:\\Users\\TMT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TMT\\Desktop\\App-demo1\\Long\\quickstart\\src\\MvcClient\\obj\\",
+      "projectPath": "C:\\Users\\Admin\\OneDrive - VNU-HCMUS\\Desktop\\Code\\quickstart\\src\\MvcClient\\MvcClient.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Admin\\OneDrive - VNU-HCMUS\\Desktop\\Code\\quickstart\\src\\MvcClient\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\TMT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -477,7 +477,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
