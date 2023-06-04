@@ -362,3 +362,10 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 /src/MvcClient/appsettings.Development.json
+/.vs/ProjectEvaluation/quickstart.metadata.v6.1
+/.vs/ProjectEvaluation/quickstart.projects.v6.1
+/.vs/Quickstart/DesignTimeBuild/.dtbcache.v2
+/.vs/Quickstart/v17/.suo
+/src/Api/obj/Debug/net6.0/project.razor.vs.json
+/src/IdentityServer/obj/Debug/netcoreapp3.1/project.razor.vs.json
+/src/MvcClient/obj/Debug/net6.0/project.razor.vs.json
